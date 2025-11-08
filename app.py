@@ -3,7 +3,6 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import sys
 # Configure stdout encoding
 sys.stdout.reconfigure(encoding='utf-8')
-import sys
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
