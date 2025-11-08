@@ -48,8 +48,7 @@ The goal is to provide an **educational and interactive tool** to help learners:
 - Explore how **neural networks** can approximate Q-functions.  
 - Visualize the agent’s learning process in a simple environment.  
 
----
-Here’s the translation of the **“How to Run”** section into English:  
+  
 
 ---
 
